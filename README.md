@@ -1,3 +1,4 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nekoo1&show_icons=true&title_color=black&icon_color=34abeb&text_color=black&bg_color=white" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nekoo1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nekoo1&theme=tokyonight" />
 </div>
